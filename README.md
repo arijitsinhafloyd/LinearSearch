@@ -1,0 +1,2 @@
+# LinearSearch
+Basic DSA Code
